@@ -16,7 +16,7 @@ object IOImplicits {
   def read =
     SPARK
       .read
-      .format(CONFIGURATION.format)
+      .format("csv")
       .option("header", "true")
       .load(CONFIGURATION.inputPath)
 

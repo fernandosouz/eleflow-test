@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.eleflow.br</groupId>
-    <artifactId>eleflow-project</artifactId>
+    <artifactId>eleflow-test</artifactId>
     <packaging>jar</packaging>
     <version>1.0.0</version>
 
-    <name>eleflow-project</name>
-    <description>Eleflow Project</description>
+    <name>eleflow-test</name>
+    <description>Eleflow Test</description>
 
     <properties>
         <spark.version>2.4.5</spark.version>
