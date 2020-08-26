@@ -14,7 +14,7 @@ $ ./exec.sh /home/user/config.json
 Obs: O script "build-exec.sh" faz o build da aplicação via *mvn* e em seguida executa ela via *spark-submit*. O script "exec.sh" apenas executa a aplicação via spark-submit.
     
 
-####Exemplo do arquivo de configuração:
+###Exemplo do arquivo de configuração:
 ~~~
 {
   "inputPath": "/home/user/ARQUIVO.csv",            //Caminho da base de dados
