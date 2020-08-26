@@ -19,7 +19,7 @@ Obs: O script "build-exec.sh" faz o build da aplicação via *mvn* e em seguida 
 {
   "inputPath": "/home/user/ARQUIVO.csv",            //Caminho da base de dados
   "show": true,                                     //Booleano para indicar se os resultados aparecerão no log 
-  "outputPath": "/home/user/results/"               //Caminho onde os resultados poderão ser salvos
+  "outputPath": "/home/user/results/"               //Parâmetro opicional - Caminho onde os resultados poderão ser salvos
 }
 ~~~
 
